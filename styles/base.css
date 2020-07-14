@@ -1,8 +1,9 @@
 /* Base styles */
 
 body {
-  Background:Pink;
-  color:Black;font-family: 'Grenze Gotisch', cursive;
+  background: pink;
+  color:black;
+  font-family: 'Grenze Gotisch', cursive;
   font-weight: 300;
   font-size: 16px;
   letter-spacing: .025rem;
@@ -47,3 +48,4 @@ iframe {
 .btn {
   display: inline-block;
   text-decoration: none;
+}
