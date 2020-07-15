@@ -74,8 +74,23 @@ min-hieght:25vh;
   background-image: url('../sea-waves.jpg');
   background-position:center;
 }
+.banner-text {
+  display:1m1me-block;
+  margern:auto;
+  padding:3rem;
+  width:auto;
+  text-algn:right;
+  background:#40e0d0;
+  color:torquise;
+  border:10px soild #ffffff;
+  font size:3.5rem;
+  max width:200px; 
+}
+  
 .profile-img {  
   max-height: 50vh;
   width: auto; 
   border-radius: 50%;
 }
+
+
