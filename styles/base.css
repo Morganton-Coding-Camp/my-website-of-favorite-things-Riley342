@@ -71,8 +71,8 @@ iframe {
 .banner {
 min-hieght:25vh; 
  padding:5rem 1rem;
-}
-
+  background-image((.../sea-waves.jpg '):
+  background position:center;
 
 .profile-img {  
   max-height: 50vh;
