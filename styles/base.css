@@ -68,6 +68,10 @@ iframe {
   flex-grow: 1;
   padding: 1rem;
 }
+.banner {
+min-hieght:25vh; 
+ padding:5rem 1rem;
+}
 
 
 .profile-img {  
