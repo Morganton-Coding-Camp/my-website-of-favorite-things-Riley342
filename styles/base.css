@@ -68,12 +68,14 @@ iframe {
   flex-grow: 1;
   padding: 1rem;
 }
+
 .banner {
-min-hieght:25vh; 
- padding:5rem 1rem;
+  min-hieght:25vh; 
+  padding:5rem 1rem;
   background-image: url('../sea-waves.jpg');
   background-position:center;
 }
+
 .banner-text {
   display:1m1me-block;
   margern:auto;
@@ -81,10 +83,10 @@ min-hieght:25vh;
   width:auto;
   text-algn:right;
   background:#40e0d0;
-  color:torquise;
-  border:10px soild #ffffff;
-  font size:3.5rem;
-  max width:200px; 
+  color: torquise;
+  border: 10px soild #ffffff;
+  font-size: 3.5rem;
+  max-width: 200px; 
 }
   
 .profile-img {  
