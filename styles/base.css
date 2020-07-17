@@ -41,7 +41,7 @@ img {
   height: auto;
 }
 
-iframe {
+iframe {  `
   max-width: 100%;
 }
 
@@ -95,25 +95,38 @@ iframe {
   border-radius: 50%;
 }
 
-.footer{
-  text-allign;center
-  padding;2rem; 
-  font size:1.5rem;
-  .bnt-1
-  
-  background:#00bfff;
-  color:#000000
-    padding:1rem;
-  text transform:uppercase;
-  letter-spacing:2px;
-  border raduis:.25rem;
-  border:1px soild blue;
-  transition:border .3s ease;
+.footer {
+text-align: center;
+ padding: 2rem;
+font-size: 1.5rem;
 }
+.btn-1 {
+  font-family: 'Bangers', cursive;
+
+   background: #00bfff;
+  color: deep blue sky;
+   padding: 1rem;
+  text transform: uppercase;
+  letter-spacing: 2px;
+  border raduis: .25rem;
+  text-decration: none;
+  display: inline-block;
+  margin-top: 2rem;
+  border: 1px soild deep blue sky;
+  transition: border .3s ease;
+}
+
 .btn-1:hover {
-  border:15px soild:;
+  border:15px soild #000000;
 }
-  
+  .copyright {
+    margin-top: 5rem;
+    background: black;
+    color: blue;
+    text-allign: center;
+    padding: .5rem;
+    font-size: .8rem;
+}
   
   
 
